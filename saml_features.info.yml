@@ -1,7 +1,7 @@
 name: 'UNB Libraries Saml Extra Features'
 type: module
 description: 'Extra features re: UNB Libraries Saml authentication'
-core_version_requirement: ^9.2 || ^10
+core_version_requirement: ^9.2 || ^10 || ^11
 package: 'UNB Libraries'
 configure: saml_features.admin_settings_form
 dependencies:
